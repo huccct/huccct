@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 
 - 📖: Now I'm a softeware student.
-- locate:
+- 🌎: Located in QingDao.
+- 💪：Fronted End.
+
+Keep loving and Rush to the mountains and seas.
 
