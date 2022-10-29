@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 [![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)](https://github.com/huccct/github-readme-stats)
 
 
-- :school: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :target: Secret
+
