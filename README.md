@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 [![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)](https://github.com/huccct/github-readme-stats)
 
 
-- :target: Secret
+- 📖: Now I'm a softeware student.
+- locate:
 
