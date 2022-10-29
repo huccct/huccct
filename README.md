@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I'm Huccct. 👋
 
 <!--
 **huccct/huccct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 [![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)](https://github.com/huccct/github-readme-stats)
 
 
-### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
+- :school: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
