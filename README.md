@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 [![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)](https://github.com/huccct/github-readme-stats)
 
 
-- 📖: Now I'm a softeware student.
+- 📖: Now I'm a software student.
 - 🌎: Located in QingDao.
 - 💪: Fronted End.
 
-Keep loving and Rush to the mountains and seas.
+Keep Loving and Go to the mountains and seas!
+
+My story with the front end continues...
 
