@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📖: Now I'm a software student.
 - 🌎: Located in QingDao.
-- 💪: Fronted End.
+- 💪: Front-End.
 
 Keep Loving and Go to the mountains and seas!
 
