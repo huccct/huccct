@@ -9,7 +9,8 @@
 
 ### - I'm 21 years old Front-End Developer from China.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" align="right">
+
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
