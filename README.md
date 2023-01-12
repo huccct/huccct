@@ -46,9 +46,6 @@
 <img src="https://github.com/huccct/huccct/blob/main/assets/edge.svg" alt="edge">
 </p>
 </br>
-</br>
-</br>
-
 
 # Stay Hugry, Stay Foolish...
 
