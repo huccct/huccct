@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)](https://github.com/huccct/github-readme-stats)
+[![Huccct's GitHub stats](https://github-readme-stats.vercel.app/api?username=huccct)]()
+
 
 
 - 📖: Now I'm a software student.
