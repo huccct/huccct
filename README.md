@@ -29,18 +29,21 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/huccct/huccct/blob/main/assets/html.svg" alt="html">
+<img src="https://github.com/huccct/huccct/blob/main/assets/css3.svg" alt="css">
+<img src="https://github.com/huccct/huccct/blob/main/assets/js.svg" alt="javascript">
+<img src="https://github.com/huccct/huccct/blob/main/assets/nodejs_larger.svg" alt="node_js">
+<img src="https://github.com/huccct/huccct/blob/main/assets/sass.svg" alt="sass">
+<br/>
+<img src="https://github.com/huccct/huccct/blob/main/assets/vue.svg" alt="Vue">
+<img src="https://github.com/huccct/huccct/blob/main/assets/react.svg" alt="react">
+<img src="https://github.com/huccct/huccct/blob/main/assets/python.svg" alt="python">
+<br/>
+<img src="https://github.com/huccct/huccct/blob/main/assets/visualstudio_code.svg" alt="visualstudio_code">
+<img src="https://github.com/huccct/huccct/blob/main/assets/datascience.svg" alt="datascience">
+<br/>
+<img src="https://github.com/huccct/huccct/blob/main/assets/pc.svg" alt="pc">
+<img src="https://github.com/huccct/huccct/blob/main/assets/edge.svg" alt="edge">
 </p>
 </br>
 </br>
