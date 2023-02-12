@@ -9,7 +9,7 @@
 
 ### - I'm 21 years old Front-End Developer from China.
 
-<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" align="right">
+<img width="250" src="https://github.com/huccct/huccct/blob/main/assets/coderman.gif" align="right">
 
 
 ### - Learning :
