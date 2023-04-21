@@ -7,7 +7,7 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Front-End Developer from China.
+### - I'm 22 years old Front-End Developer from China.
 
 <img width="250" src="https://github.com/huccct/huccct/blob/main/assets/github.gif" align="right">
 
