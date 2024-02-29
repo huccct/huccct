@@ -1,54 +1,5 @@
-# I'm Orion Chen 👋
-
-<!-- <div align="center">
-
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/huccct/huccct/blob/main/assets/hello-world.gif">
-</div> -->
-
-# About ME 💬 :
-
-### - I'm 22 years old Front-End Developer from China.
-
-<img width="250" src="https://github.com/huccct/huccct/blob/main/assets/github.gif" align="right">
-
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Networks & Http 
-- ✨ IELTS
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Playing Drums
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/huccct/huccct/blob/main/assets/html.svg" alt="html">
-<img src="https://github.com/huccct/huccct/blob/main/assets/css3.svg" alt="css">
-<img src="https://github.com/huccct/huccct/blob/main/assets/js.svg" alt="javascript">
-<img src="https://github.com/huccct/huccct/blob/main/assets/nodejs_larger.svg" alt="node_js">
-<img src="https://github.com/huccct/huccct/blob/main/assets/sass.svg" alt="sass">
-<br/>
-<img src="https://github.com/huccct/huccct/blob/main/assets/vue.svg" alt="Vue">
-<img src="https://github.com/huccct/huccct/blob/main/assets/react.svg" alt="react">
-<img src="https://github.com/huccct/huccct/blob/main/assets/python.svg" alt="python">
-<br/>
-<img src="https://github.com/huccct/huccct/blob/main/assets/visualstudio_code.svg" alt="visualstudio_code">
-<img src="https://github.com/huccct/huccct/blob/main/assets/datascience.svg" alt="datascience">
-<br/>
-<img src="https://github.com/huccct/huccct/blob/main/assets/pc.svg" alt="pc">
-<img src="https://github.com/huccct/huccct/blob/main/assets/edge.svg" alt="edge">
-</p>
-</br>
-
-# Stay Hugry, Stay Foolish...
-
-
-
-*************
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=huccct&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=huccct&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=huccct&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
