@@ -6,7 +6,7 @@
     •
     <a href="https://orionchen.me/projects">projects</a>    
     •
-    <a href="https://twitter.com/ucccth">X</a>
+    <a href="https://x.com/orion_c29">X</a>
     •
     <a href="https://www.linkedin.com/in/tunan-orion-chen-720627283">linkedin</a>
     •
