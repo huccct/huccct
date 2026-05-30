@@ -1,15 +1,4 @@
-<div align="center">
-  <samp>
-    <a href="https://www.orionchen.me">me</a>
-    • 
-    <a href="https://orionchen.me/blog">blog</a>
-    •
-    <a href="https://orionchen.me/projects">projects</a>    
-    •
-    <a href="https://x.com/orion_c29">X</a>
-    •
-    <a href="https://www.linkedin.com/in/tunan-orion-chen-720627283">linkedin</a>
-    •
-    <a href="https://www.instagram.com/orion.c29">instagram</a>
-  </samp>
-</div>
+<p align="center">
+  <img src="assets/traffic.svg" alt="traffic light stuck on yellow" width="32" height="80">
+</p>
+<p align="center"><sub><i>always yellow. always between acts.</i></sub></p>

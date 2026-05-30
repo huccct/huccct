@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="100" viewBox="0 0 40 100">
+  <title>traffic light, stuck on yellow</title>
+  <rect x="2" y="2" width="36" height="96" rx="6" fill="none" stroke="#999" stroke-width="1.5"/>
+
+  <!-- red: blinks briefly every 12s -->
+  <circle cx="20" cy="22" r="9" fill="#e63946" opacity="0.18">
+    <animate attributeName="opacity"
+             values="0.18;0.18;1;1;0.18"
+             keyTimes="0;0.95;0.96;0.99;1"
+             dur="12s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- yellow: always on -->
+  <circle cx="20" cy="50" r="9" fill="#f4c430"/>
+
+  <!-- green: blinks briefly every 8s -->
+  <circle cx="20" cy="78" r="9" fill="#2a9d8f" opacity="0.18">
+    <animate attributeName="opacity"
+             values="0.18;0.18;1;1;0.18"
+             keyTimes="0;0.93;0.94;0.99;1"
+             dur="8s"
+             repeatCount="indefinite"/>
+  </circle>
+</svg>
